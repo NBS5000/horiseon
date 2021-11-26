@@ -42,7 +42,7 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
-li:hover{
+.header nav ul li:hover{
     font-weight: bolder;
 }
 
